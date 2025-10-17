@@ -10,7 +10,7 @@ I incorporated a simple and intuitive responsive interface, while also implement
 
 In all, this ensures a seamless integrated experience in an application.
 
-<br>
+
 
 ## Demo
 
